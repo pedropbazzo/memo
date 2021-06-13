@@ -15,4 +15,4 @@ Isso significa que o objetivo final - de expor este processo - é apenas e unica
 - [Vídeos do background do projeto](https://www.youtube.com/watch?v=HgOtgacKSNY&list=PLXA_TifFgaBAu0l39GWyJVVr0azXpV9wz&ab_channel=LucasMontano): Série (playlist no YT)
 contando sobre todo o processo e execução do projeto;
 - [Sprints](/.process/sprints_ptBR/): Entra em detalhes sobre todos os *major* eventos de cada sprint, seus respectivos
-resultados e planejamentos.
+resultados e planejamentos. 
